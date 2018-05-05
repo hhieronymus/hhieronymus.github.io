@@ -1,0 +1,36 @@
+body {margin:0px; padding:0px; /* Needed to get consistency between browsers. */}
+
+
+#main_text    
+	{
+	margin-left:-315px;
+	margin-top:290px;
+	width:630px;
+	font-size:small; 
+	font-family: arial, verdana,  helvetica, sans-serif;
+	color: #000000; 
+	position: absolute;
+	left:50%;
+	top:0%;
+	text-align:left; 
+	padding:0px;
+	z-index: 10;
+	border:0px;
+	line-height: small;
+	color:#000000;
+	font-weight:normal;
+	}
+
+
+.blue A:link {font-weight: normal; font-family:  arial, helvetica, sans-serif;  color: #000099;text-decoration: none;}
+.blue A:visited  {font-weight: normal; font-family:  arial, helvetica, sans-serif; color: #999999;text-decoration: none;}
+.blue A:hover  {font-weight: normal; font-family: arial, helvetica, sans-serif; color: #0033CC;text-decoration: none;}
+
+.green A:link {font-size:10px; font-family: arial, helvetica, sans-serif;  color: #006600;text-decoration: none;}
+.green A:visited  {font-size:10px; font-family: arial, helvetica, sans-serif; color: #999999;text-decoration: none;}
+.green A:hover  {font-size:10px; font-family: arial, helvetica, sans-serif;color: #339900;text-decoration: none;}
+
+.brown A:link {font-size:10px; font-family: arial, helvetica, sans-serif;  color: #663300;text-decoration: none;}
+.brown A:visited  {font-size:10px; font-family: arial, helvetica, sans-serif; color: #999999;text-decoration: none;}
+.brown A:hover  {font-size:10px; font-family:  arial, helvetica, sans-serif; text-decoration: none; color: #660000;}
+
